@@ -1,2 +1,2 @@
 # smkdevStarter
-Api menggunakan TMDB sendiri
+Api menggunakan TMDB sendiri-sendiri
